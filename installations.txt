@@ -1,0 +1,6 @@
+Installing Git Bash:
+	1) Download the installer from https://git-scm.com/downloads.
+	2) Open the downloaded file.
+	3) At components menu select everything(you can not choose additional icons).
+	4) All other left the default and install.
+	5) Finish.
